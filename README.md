@@ -8,4 +8,4 @@ The "Orange S.A. Churn Analysis" dashboard is a data visualization project creat
 - Design Elements: Flaticon was used to source design elements, enhancing the visual appeal and clarity of the dashboard.
 - Background Design: PowerPoint was used to design background elements, providing a cohesive and visually appealing backdrop for the dashboard.
 
-![Orange S.A. Churn Analysis Dashboard][https://github.com/Mansi67/Churn-Analysis-Dashboard-Tableau/blob/main/Churn%20Analysis%20Dashboard.png]
+![Orange S.A. Churn Analysis Dashboard]([https://github.com/Mansi67/Churn-Analysis-Dashboard-Tableau/blob/main/Churn%20Analysis%20Dashboard.png])
