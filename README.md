@@ -1,4 +1,4 @@
-# Churn-Analysis-Dashboard-Tableau
+# Orange S.A. Churn Analysis Dashboard Using Tableau
 The "Orange S.A. Churn Analysis" dashboard is a data visualization project created using Tableau, aimed at analyzing churn dynamics within Orange S.A.'s customer base. Churn analysis is crucial for telecommunications companies like Orange S.A. to understand customer attrition patterns and implement effective retention strategies. This dashboard provides stakeholders with actionable insights into churn behavior, enabling informed decision-making to mitigate churn and improve customer retention.
 
 # Tools and Resources Used:
@@ -10,3 +10,4 @@ The "Orange S.A. Churn Analysis" dashboard is a data visualization project creat
 
 ![Orange S.A. Churn Analysis Dashboard](https://github.com/Mansi67/Churn-Analysis-Dashboard-Tableau/blob/main/Churn%20Analysis%20Dashboard%20(1).png)
 
+Link to [Tableau Public Dashboard](https://public.tableau.com/views/TelcomChurnAnalysis/ChurnAnalysisDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
