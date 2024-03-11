@@ -3,9 +3,9 @@ The "Orange S.A. Churn Analysis" dashboard is a data visualization project creat
 
 #Tools and Resources Used:
 
-Data Visualization: Tableau Public was employed to create interactive and insightful visualizations.
-Data Analysis: Excel was utilized for data preparation, cleansing, and analysis.
-Design Elements: Flaticon was used to source design elements, enhancing the visual appeal and clarity of the dashboard.
-Background Design: PowerPoint was used to design background elements, providing a cohesive and visually appealing backdrop for the dashboard.
+- Data Visualization: Tableau Public was employed to create interactive and insightful visualizations.
+- Data Analysis: Excel was utilized for data preparation, cleansing, and analysis.
+- Design Elements: Flaticon was used to source design elements, enhancing the visual appeal and clarity of the dashboard.
+- Background Design: PowerPoint was used to design background elements, providing a cohesive and visually appealing backdrop for the dashboard.
 
-![Orange S.A. Churn Analysis Dashboard]([(https://github.com/Mansi67/Churn-Analysis-Dashboard-Tableau/blob/main/Churn%20Analysis%20Dashboard.png)])
+![Orange S.A. Churn Analysis Dashboard]([https://github.com/Mansi67/Churn-Analysis-Dashboard-Tableau/blob/main/Churn%20Analysis%20Dashboard.png])
